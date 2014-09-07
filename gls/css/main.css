@@ -212,13 +212,15 @@ left:2px;
 padding-left:2px;
 padding-bottom:5px;
 }
-
+#saleFooter .saleFooter-bank {
+height: 60px;
+}
 .saleFooter-bank {
 padding-left:2px;
 }
 
 .saleFooter-bank span {
-margin-left:150px;
+
 }
 
 .saleFooter-bank span:first-child {
